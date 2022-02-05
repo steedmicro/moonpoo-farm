@@ -1,0 +1,1 @@
+remixd -s E:\Projects\2022_02_22_Moonpoo\Project\sunflower-farmers\src\contracts --remix-ide https://remix.ethereum.org
